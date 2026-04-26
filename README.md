@@ -27,8 +27,8 @@ This project features an interactive **Power BI Dashboard** that analyzes global
 
 ## 👤 Author
 **[Mohammed Al-mokhtar]**
-- LinkedIn: [[Your Profile Link]](https://www.linkedin.com/in/mohammed-al-mokhtar2001/)
-- Portfolio: [Your Portfolio Link]
+- LinkedIn: (https://www.linkedin.com/in/mohammed-al-mokhtar2001/)
+
 
 ---
 *Feel free to star this repository if you find it helpful!*
