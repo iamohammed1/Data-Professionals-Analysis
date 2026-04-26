@@ -24,12 +24,10 @@ This project features an interactive **Power BI Dashboard** that analyzes global
 - **Salary Gap**: Data Scientists and Data Engineers tend to have higher average salaries compared to other roles.
 - **Work-Life Balance**: There is a moderate level of satisfaction regarding work-life balance, while satisfaction with salary remains relatively low on average.
 
-## 📸 Dashboard Preview
-![Dashboard Screenshot](Datapic.pn)
 
 ## 👤 Author
-**[Your Name]**
-- LinkedIn: [Your Profile Link]
+**[Mohammed Al-mokhtar]**
+- LinkedIn: [[Your Profile Link]](https://www.linkedin.com/in/mohammed-al-mokhtar2001/)
 - Portfolio: [Your Portfolio Link]
 
 ---
