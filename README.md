@@ -1,7 +1,7 @@
 # Data-Professionals-Analysis
 An interactive Power BI dashboard analyzing global data professional survey results, featuring insights on salary trends, job satisfaction, and popular programming languages.
 # Data Professional Survey Breakdown - Power BI Dashboard
-![alt image]()
+![alt image](Datapic.png)
 ## 📌 Project Overview
 This project features an interactive **Power BI Dashboard** that analyzes global survey data from data professionals. The goal is to provide a comprehensive look at the state of the data industry, including salary trends, popular technologies, and workplace satisfaction.
 
