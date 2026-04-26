@@ -25,7 +25,7 @@ This project features an interactive **Power BI Dashboard** that analyzes global
 - **Work-Life Balance**: There is a moderate level of satisfaction regarding work-life balance, while satisfaction with salary remains relatively low on average.
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](image_4aa732.jpg)
+![Dashboard Screenshot](Datapic.pn)
 
 ## 👤 Author
 **[Your Name]**
